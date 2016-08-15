@@ -1,0 +1,25 @@
+.wcHeader{
+  height: 140px;
+  align-content: center;
+  vertical-align:auto;  
+  padding-left: 400px;
+  padding-top: 50px;
+  background-color: lightblue;
+  color: black;
+  font-size: 25px;
+}
+.wcLeftPanel{
+    width: 20%;
+    background-color: lightgreen;
+    height:400px;
+    font-style: italic;
+    font-size: medium;
+    font: bold;
+}
+.wcBodycontent{
+    width: 80%;
+    background-color: lightgray;
+    height:400px;
+    font-style: italic;
+    font-size: medium;
+}
