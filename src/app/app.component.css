@@ -11,7 +11,7 @@
 .wcLeftPanel{
     width: 20%;
     background-color: lightgreen;
-    height:400px;
+    height:100px;
     font-style: italic;
     font-size: medium;
     font: bold;
@@ -19,7 +19,7 @@
 .wcBodycontent{
     width: 80%;
     background-color: lightgray;
-    height:400px;
+    height:100px;
     font-style: italic;
     font-size: medium;
 }
